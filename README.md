@@ -104,8 +104,9 @@ MIT
 
 # Tech Stack List
 ## Libraries:
-"lodash.merge": "^4.4.0",
-"lodash.unescape": "^4.0.0",
+
+- "lodash.merge": "^4.4.0",
+- "lodash.unescape": "^4.0.0",
 "react": "~15.3.1",
 "react-native": "^0.34.1",
 "react-native-html-render": "^1.0.4",
@@ -130,10 +131,12 @@ MIT
 "rnpm-plugin-upgrade": "^0.26.0"
 
 ##IDE: 
+
 Visual Studio Code: v1.20.0
 XCode: 9.2(9c40b)
 Android Studio: 3.0
 
 ##SDK: 
+
 "react-native-material-design": "^0.3.7"
 https://github.com/react-native-material-design/react-native-material-design
