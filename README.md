@@ -101,3 +101,39 @@ Please make sure to read the [Contributing Guide](https://github.com/ElemeFE/min
 
 ## License
 MIT
+
+# Tech Stack List
+## Libraries:
+"lodash.merge": "^4.4.0",
+"lodash.unescape": "^4.0.0",
+"react": "~15.3.1",
+"react-native": "^0.34.1",
+"react-native-html-render": "^1.0.4",
+"react-native-scrollable-tab-view": "^0.5.3",
+"react-native-svg": "^4.3.1",
+"react-redux": "^4.4.0",
+"react-static-container": "^1.0.1",
+"redux": "^3.3.1",
+"redux-api-middleware": "chunghe/RN-redux-api-middleware#master",
+"redux-thunk": "^2.0.1",
+"victory-chart-native": "^1.0.0"
+"babel-eslint": "^6.1.0",
+"eslint": "^2.13.1",
+"eslint-config-airbnb": "^9.0.1",
+"eslint-plugin-import": "^1.9.2",
+"eslint-plugin-jsx-a11y": "^1.5.3",
+"eslint-plugin-react": "^5.2.2",
+"lint-staged": "^1.0.1",
+"pre-commit": "^1.1.3",
+"remote-redux-devtools": "^0.4.9",
+"remote-redux-devtools-on-debugger": "^0.6.2",
+"rnpm-plugin-upgrade": "^0.26.0"
+
+##IDE: 
+Visual Studio Code: v1.20.0
+XCode: 9.2(9c40b)
+Android Studio: 3.0
+
+##SDK: 
+"react-native-material-design": "^0.3.7"
+https://github.com/react-native-material-design/react-native-material-design
